@@ -1,0 +1,29 @@
+{
+  "name": "hb-wdio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio ./entrypoint.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poltoraxavlad/Acquisition"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/poltoraxavlad/Acquisition/issues"
+  },
+  "homepage": "https://github.com/poltoraxavlad/Acquisition#readme",
+  "devDependencies": {
+    "@types/mocha": "^8.0.3",
+    "@wdio/cli": "^6.7.2",
+    "@wdio/local-runner": "^6.7.2",
+    "@wdio/mocha-framework": "^6.7.0",
+    "@wdio/spec-reporter": "^6.7.0",
+    "@wdio/sync": "^6.7.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}

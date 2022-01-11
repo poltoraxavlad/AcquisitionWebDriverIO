@@ -1,8 +1,3 @@
-# hb-wdio-project
-
-Seed project for Heisenbug 2020 workshop.
-
-
 ### Installing
 
 First install all dependenices:
